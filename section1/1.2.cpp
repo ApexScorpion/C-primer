@@ -12,3 +12,13 @@ int main(){
      "is" << v1 + v2 <<std::endl;
      return 0;
 }
+/* :: - scope operator
+header file- <iostream> - goes into the std library/namespace and pulls specific info
+Namespace = std:: - avoids collisions with other libraries/namespaces by calling out the namespace
+
+
+
+
+
+
+*/
