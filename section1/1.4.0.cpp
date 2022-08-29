@@ -21,7 +21,7 @@ std::system("pause");//dont close command line
 return 0;
 }
 /*
-A while executes by (alternately) testing the condition and executing the associated statement until the condition is false. A condition is an expression that yields a
+A while executes by (alternately) testing the condition and executing the associated statement until the condition is false. A condition is an expression that yields a
 result that is either true or false. So long as condition is true, statement is executed.
 After executing statement, condition is tested again. If condition is again true, then
 statement is again executed. The while continues, alternately testing the condition
