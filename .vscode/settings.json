@@ -41,7 +41,8 @@
     "xstddef": "cpp",
     "xstring": "cpp",
     "xtr1common": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "algorithm": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "C:/msys64/mingw64/bin/g++.exe",
   "C_Cpp_Runner.cppCompilerPath": "g++",
