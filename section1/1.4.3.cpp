@@ -5,7 +5,9 @@ int main()
     // read until end-of-file, calculating a running total of all values read
     while (std::cin >> value) {
     sum += value; // equivalent to sum = sum + value
-    std::cout << "Sum is: " << sum << std::endl;
-    return 0;
+   
+    
     }
-}//https://code.visualstudio.com/docs/cpp/config-msvc
+     std::cout << "Sum is: " << sum << std::endl;
+    return 0;
+}
