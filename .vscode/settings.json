@@ -72,5 +72,6 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "cSpell.language": "en,en-US"
 }
